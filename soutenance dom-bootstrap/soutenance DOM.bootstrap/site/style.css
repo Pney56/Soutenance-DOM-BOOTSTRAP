@@ -1,0 +1,82 @@
+body .container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+header .container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+main .container{
+    width: 100%;
+    max-width: 1200px;
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+    padding: 0 !important;
+}
+footer .container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* //////////////////////////////////////////////////////////// */
+
+.navbar {
+    border: 2px solid gray;
+}
+
+.border_cotez{
+    border-top: 5px solid rgb(102, 102, 102);
+    
+}
+.bandeau{
+width: 1200px !important;
+
+padding: 0%;
+left: 0%;
+}
+
+
+/* DERNIERE NEWS TEXT TAILLE  */
+.News{
+    font-size: 19px; 
+}
+/* //////////////////////////////////////////////////////////// */
+
+#slidertext{
+    background-color:rgba(41, 41, 41, 0.562) ;
+}
+
+.meilleurs{
+    font-size: 2.5rem;
+}
+
+
+.Article4{
+    background-color: rgb(241, 241, 241) !important;
+}
+
+.text_article{
+    font-size: 1.5rem;
+}
+
+.Article_2{
+    background-color: rgb(236, 236, 236);
+    border: 3px solid rgb(206,206,206);
+}
+
+.menuFin{
+    text-decoration: none !important;
+    color: black;
+}
+
+jumbo{
+;
+
+}
